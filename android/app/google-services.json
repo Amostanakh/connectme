@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055435009144",
+    "project_id": "connectme-c9041",
+    "storage_bucket": "connectme-c9041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055435009144:android:a64685bcb7bd42f9a6518d",
+        "android_client_info": {
+          "package_name": "com.example.connectme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKDZpkWyf72qEDJtw4EesBeH6NL_TB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
